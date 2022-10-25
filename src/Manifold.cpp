@@ -131,7 +131,7 @@ struct Manifold : Module {
 
 			if (step > -1)
 			{
-				if (currentLane == Lane::CENTER && swapPercent >= swapChance)
+				if (currentLane == Lane::CENTER && swapPercent < swapChance)
 				{
 					switch (currentOutsideLane)
 					{
@@ -145,7 +145,7 @@ struct Manifold : Module {
 						break;
 					}
 				}
-				if (insidePercent >= insideChance) 
+				if (insidePercent < insideChance) 
 				{
 					if (currentLane == Lane::CENTER) {
 						currentLane = currentOutsideLane;
