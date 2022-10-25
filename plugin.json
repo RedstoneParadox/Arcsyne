@@ -1,0 +1,36 @@
+{
+  "slug": "Arcsyne",
+  "name": "Arcsyne",
+  "version": "2.0.0",
+  "license": "\tMIT-open-group",
+  "brand": "Arcsyne",
+  "author": "RedstoneParadox",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Quadfade",
+      "name": "Quadfade",
+      "description": "A 2-dimensional crossfader",
+      "tags": [
+        "VCA",
+        "Poly",
+        "Utility",
+        "Pan"
+      ]
+    },
+    {
+      "slug": "Manifold",
+      "name": "Manifold",
+      "description": "A sequencer",
+      "tags": [
+        "Sequencer"
+      ]
+    }
+  ]
+}

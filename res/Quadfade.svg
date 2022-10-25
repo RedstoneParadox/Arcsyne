@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.4mm"
+   height="128.5mm"
+   viewBox="0 0 25.399999 128.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Quadfade.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#dcdcdc"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9647588"
+     inkscape:cx="-120.58317"
+     inkscape:cy="201.5341"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path14919" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15248"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.3) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path15246" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.3) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path14934" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path14907" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12108"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Tail"
+       inkscape:isstock="true">
+      <g
+         transform="scale(-1.2)"
+         id="g12106">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,-3.9585227 0.54352094,0"
+           id="path12094" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,-3.9585227 3.0617053,0"
+           id="path12096" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,-3.9585227 5.6537466,0"
+           id="path12098" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,4.1775838 0.54352094,0.21974226"
+           id="path12100" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,4.1775838 3.0617053,0.21974226"
+           id="path12102" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,4.1775838 5.6537466,0.21974226"
+           id="path12104" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Tail"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Tail"
+       inkscape:isstock="true">
+      <g
+         transform="scale(-1.2)"
+         id="g11824">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,-3.9585227 0.54352094,0"
+           id="path11812" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,-3.9585227 3.0617053,0"
+           id="path11814" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,-3.9585227 5.6537466,0"
+           id="path11816" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -3.8048674,4.1775838 0.54352094,0.21974226"
+           id="path11818" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M -1.2866832,4.1775838 3.0617053,0.21974226"
+           id="path11820" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.8;stroke-linecap:round"
+           d="M 1.3053582,4.1775838 5.6537466,0.21974226"
+           id="path11822" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12054"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path12052" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11788" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11776" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, @wght=800';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 800;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.3413191"
+       y="126.48186"
+       id="text8963"
+       inkscape:label="brand"><tspan
+         sodipodi:role="line"
+         id="tspan8961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, @wght=800';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 800;fill:#000000;stroke-width:0.264583"
+         x="7.3413191"
+         y="126.48186">Arcsyne</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, @wght=800';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 800;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.1171761"
+       y="4.2588649"
+       id="text36571"
+       inkscape:label="module_name"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, @wght=800';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 800;stroke-width:0.264583"
+         x="6.1171761"
+         y="4.2588649"
+         id="tspan3506">Quadfade</tspan></text>
+    <path
+       style="fill:#803300;stroke:#000000;stroke-width:0.191579px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.4999996,6.1322915 c 20.4000004,0 20.4000004,0 20.4000004,0"
+       id="path45678"
+       inkscape:label="top_divider" />
+    <path
+       style="fill:#803300;stroke:#000000;stroke-width:0.191579px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.5000001,122.13397 c 20.3999999,0 20.3999999,0 20.3999999,0"
+       id="path45488"
+       inkscape:label="bottom_divider" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.161537;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5146"
+       width="17.838463"
+       height="17.838463"
+       x="3.7807684"
+       y="100.78076"
+       rx="2.0000012"
+       ry="2.0000012"
+       inkscape:label="output_background" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 19.389494,55.132291 h 3.257364 v 10.084435 h -3.614335"
+       id="path15264"
+       inkscape:label="y_arrow" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.5316"
+       y="74.714897"
+       id="text11874"
+       inkscape:label="y_label"><tspan
+         sodipodi:role="line"
+         id="tspan11872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="11.5316"
+         y="74.714897">Y</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="M 6.0747994,55.330526 H 2.8174378 V 45.246091 h 3.6143326"
+       id="path14822"
+       inkscape:label="x_arrow" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.5316"
+       y="37.673195"
+       id="text9392"
+       inkscape:label="x_label"><tspan
+         sodipodi:role="line"
+         id="tspan9390"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Gemunu Libre';-inkscape-font-specification:'Gemunu Libre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="11.5316"
+         y="37.673195">X</tspan></text>
+    <rect
+       style="fill:#808080;fill-opacity:0;stroke:#808080;stroke-width:0.163;stroke-linejoin:round;stroke-opacity:1"
+       id="rect1034"
+       width="25.4"
+       height="128.5"
+       x="4.4408921e-16"
+       y="3.5527137e-15" />
+  </g>
+  <g
+     id="layer2"
+     inkscape:label="components"
+     style="display:none"
+     inkscape:groupmode="layer">
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#00ff00;stroke-width:0.296"
+       id="circle4559"
+       cx="18.299999"
+       cy="24.299999"
+       r="2.0999999"
+       inkscape:label="input_d" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#00ff00;stroke-width:0.296"
+       id="circle4556"
+       cx="7.0999999"
+       cy="24.299999"
+       r="2.0999999"
+       inkscape:label="input_c" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#00ff00;stroke-width:0.296"
+       id="circle4553"
+       cx="18.299999"
+       cy="13.1"
+       r="2.0999999"
+       inkscape:label="input_b" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#00ff00;stroke-width:0.296"
+       id="circle46429"
+       cx="7.0999999"
+       cy="13.1"
+       r="2.0999999"
+       inkscape:label="input_a" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#00ff00;stroke-width:0.296"
+       id="circle5535"
+       cx="55.165089"
+       cy="-9.2278328"
+       r="2.0999999"
+       inkscape:label="x_cv"
+       transform="rotate(90)" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#ff0000;stroke-width:0.296"
+       id="circle45795"
+       cx="45.5"
+       cy="-12.772167"
+       r="5.5"
+       inkscape:label="x_knob"
+       transform="rotate(90)" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#0000ff;stroke-width:0.296"
+       id="circle4878"
+       cx="18.299999"
+       cy="115.30002"
+       r="2.0999999"
+       inkscape:label="output_d" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#0000ff;stroke-width:0.296"
+       id="circle4880"
+       cx="7.0999999"
+       cy="115.30002"
+       r="2.0999999"
+       inkscape:label="output_c" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#0000ff;stroke-width:0.296"
+       id="circle4882"
+       cx="18.299999"
+       cy="104.1"
+       r="2.0999999"
+       inkscape:label="output_b" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#0000ff;stroke-width:0.296"
+       id="circle4884"
+       cx="7.0999999"
+       cy="104.1"
+       r="2.0999999"
+       inkscape:label="output_a" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#0000ff;stroke-width:0.296"
+       id="circle4888"
+       cx="12.7"
+       cy="109.7"
+       r="2.0999999"
+       inkscape:label="output_mixed" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#00ff00;stroke-width:0.296"
+       id="circle5970"
+       cx="-55.329178"
+       cy="16.172167"
+       r="2.0999999"
+       inkscape:label="y_cv"
+       transform="rotate(-90)" />
+    <circle
+       style="font-variation-settings:'wght' 800;fill:#ff0000;stroke-width:0.296"
+       id="circle5972"
+       cx="-64.99427"
+       cy="12.627833"
+       r="5.5"
+       inkscape:label="y_knob"
+       transform="rotate(-90)" />
+  </g>
+</svg>
