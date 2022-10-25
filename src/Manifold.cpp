@@ -161,6 +161,12 @@ struct Manifold : Module {
 			else {
 				step++;
 			}
+
+			if (step == 6)
+			{
+				step -= 6;
+			}
+			
 			
 			ParamId id = mapping[currentLane][step];
 			float cv = params[id].getValue();
