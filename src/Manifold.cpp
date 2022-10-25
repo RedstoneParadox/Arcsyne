@@ -51,6 +51,7 @@ struct Manifold : Module {
 	Lane currentLane = LEFT;
 	Lane currentOutsideLane = LEFT;
 	ParamId mapping[3][6];
+	bool clockHigh = false;
 
 	Manifold() {
 		config(PARAMS_LEN, INPUTS_LEN, OUTPUTS_LEN, LIGHTS_LEN);
@@ -117,7 +118,7 @@ struct Manifold : Module {
 			if (!triggered) outputs[CV_OUTPUT_OUTPUT].clearVoltages();
 		}
 
-		if (triggered) 
+		if (triggered && triggered != clockHigh) 
 		{
 			random::Xoroshiro128Plus rng;
 
@@ -161,12 +162,12 @@ struct Manifold : Module {
 				step++;
 			}
 			
-
-			step++;
 			ParamId id = mapping[currentLane][step];
 			float cv = params[id].getValue();
 			outputs[CV_OUTPUT_OUTPUT].setVoltage(cv);
 		}
+
+		clockHigh = triggered;
 	}
 };
 
